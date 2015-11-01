@@ -1,4 +1,4 @@
-# babel-preset-es2015-mod
+# babel-preset-es2015-mod [![Dependency Status](https://david-dm.org/orlin/babel-preset-es2015-mod.svg)](https://david-dm.org/orlin/babel-preset-es2015-mod)
 
 > Babel preset for all es2015 plugins, modified to enable `--loose es6.modules`.
 
