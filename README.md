@@ -6,6 +6,8 @@ The code is copied from [babel-preset-es2015](https://github.com/babel/babel/tre
 
 ## Install
 
+[![NPM](https://nodei.co/npm/babel-preset-es2015-mod.png?mini=true)](https://www.npmjs.org/package/babel-preset-es2015-mod)
+
 ```sh
 $ npm install --save-dev babel-preset-es2015-mod
 ```
