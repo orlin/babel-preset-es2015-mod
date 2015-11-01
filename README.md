@@ -2,6 +2,8 @@
 
 > Babel preset for all es2015 plugins, modified to enable `--loose es6.modules`.
 
+The code is copied from [babel-preset-es2015](https://github.com/babel/babel/tree/master/packages/babel-preset-es2015) with just [this line](https://github.com/orlin/babel-preset-es2015-mod/blob/master/index.js#L21) difference.
+
 ## Install
 
 ```sh

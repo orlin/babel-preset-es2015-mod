@@ -2,6 +2,14 @@
   "name": "babel-preset-es2015-mod",
   "version": "6.0.14",
   "description": "Babel preset for all es2015 plugins, plus --loose es6.modules.",
+  "keywords": [
+    "babel",
+    "es2015",
+    "preset",
+    "loose",
+    "commonjs",
+    "modules"
+  ],
   "author": "Orlin M Bozhinov <om@soundsapiens.com>",
   "homepage": "https://babeljs.io/",
   "license": "MIT",
