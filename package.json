@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-mod",
-  "version": "6.3.13",
+  "version": "6.3.14-1",
   "description": "Babel preset for all es2015 plugins, plus --loose es6.modules.",
   "keywords": [
     "babel",
